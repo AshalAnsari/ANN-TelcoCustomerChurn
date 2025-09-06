@@ -1,4 +1,4 @@
-# ANN-TelcoCustomerChurn
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3cd6e48c-50ff-418f-9547-2a44ffd33bf9" /># ANN-TelcoCustomerChurn
 Customer Churn Prediction using Artificial Neural Networks (ANN) on the Telco Customer Churn dataset. Includes data preprocessing, baseline models, deep learning implementation with Keras, handling class imbalance, evaluation with Precision/Recall, and explainable AI with SHAP for feature importance.
 
 ## Project Overview
@@ -14,3 +14,8 @@ Customer Churn Prediction using Artificial Neural Networks (ANN) on the Telco Cu
 ✅ Model evaluation with Precision, Recall, F1, and ROC-AUC
 
 ✅ Explainability using SHAP to identify key drivers of churn
+
+
+### SHAP Screenshots for Explaining features that affect the most on Model Accuracy
+
+<img width="430" height="455" alt="SHAP" src="https://github.com/user-attachments/assets/40a6ec71-47e9-4547-8db3-1f6814997ca5" />
